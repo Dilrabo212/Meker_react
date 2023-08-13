@@ -1,0 +1,34 @@
+.wrapper {
+    background: #FFF;
+}
+
+.text_content {
+    width: 854px;
+    color: #252626;
+    text-align: center;
+    font-family: Work Sans;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 135%;
+    padding: 100px 293px 0px 293px;
+}
+
+.button {
+    margin-left: 45%;
+    margin-top: 50px;
+    color: #FFF;
+    font-family: Work Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 120%;
+    display: inline-flex;
+    padding: 15px 35px;
+    align-items: flex-start;
+    gap: 10px;
+    border-radius: 6px;
+    background: #35AFBF;
+    margin-bottom: 50px;
+    cursor: pointer;
+    border: none;
+}

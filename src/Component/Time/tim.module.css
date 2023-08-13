@@ -1,0 +1,51 @@
+.section__wrapper{
+background-image: url(../img/Testimonial.png);
+width: 100%;
+}
+.logo{
+text-align: center;
+width: 154.198px;
+height: 30.897px;
+flex-shrink: 0;
+padding-top: 100px;
+position: relative;
+left: 45%;
+}
+.text__content{
+position: relative;
+color: #4B4C4C;
+text-align: center;
+font-size: 32px;
+font-style: normal;
+line-height: 60px; 
+}
+.user_info_wrp{
+text-align: center;
+padding-bottom: 100px;
+
+}
+.userimg{
+    width: 60px;
+    height: 60px;
+    position: relative;
+    left: 40%;
+    top: 39px;
+}
+.username{
+    color: #4B4C4C;
+    font-family: Work Sans;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 80%; 
+    padding-bottom: 12px;
+}
+.exspert{
+    color: #707273;
+    font-family: Work Sans;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 100%;
+    display: inline;
+}

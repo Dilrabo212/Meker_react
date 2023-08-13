@@ -1,0 +1,48 @@
+.content__wrap {
+    background-image: url(../img/vidio.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+
+}
+
+.content__h1 {
+    padding-left: 10%;
+    color: #FFF;
+    text-align: center;
+    font-family: Work Sans;
+    font-size: 38px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 120%;
+    /* 45.6px */
+}
+
+.content__p {
+    padding-left: 20%;
+    color: #FFF;
+    text-align: center;
+    font-family: Work Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 160%;
+    width: 765px;
+}
+
+.img {
+    width: 93px;
+    height: 93px;
+    flex-shrink: 0;
+    padding-left: 50%;
+    padding-top: 50px;
+    cursor: pointer;
+}
+
+.content__center {
+    align-items: center;
+    padding: 125px 0px 125px 0px;
+}
